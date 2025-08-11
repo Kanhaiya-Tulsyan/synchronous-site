@@ -9,3 +9,6 @@ copy and paste style.css code in VS Code or NOTE PAD ++ and save it as style.css
 
 
 -----WILL POST SHOPPING WEBSITE WITH ADD TO CART OPTION AND FULLY FUNCTIONABLE----
+
+
+here making the changes to listen the event
